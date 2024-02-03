@@ -24,3 +24,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Dashboard
 
 ![Dashboard](resources/dashboard.png)
+
+## Data Model
+
+![Data-model](resources/data-model.png)
